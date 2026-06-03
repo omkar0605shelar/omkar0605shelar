@@ -1,7 +1,5 @@
 # 💫 About Me:
-I’m currently building AI-driven and scalable web applications using MERN & AWS<br>I’m open to collaborating on real-world impactful projects in AI, Cloud & Full-Stack<br>I’m exploring system design, distributed systems & DevOps practices<br>I’m continuously learning Machine Learning, Data Analytics & Cloud Engineering<br>Ask me about DSA, Web Development, APIs & AI projects<br>Fun fact: I focus on building projects that can generate real-world impact & income
-
-
+I'm a final-year engineering student passionate about building scalable web applications, intelligent AI systems, and cloud-native solutions. I enjoy solving complex problems through software engineering and continuously improving my skills in backend development, machine learning, and deployment technologies.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shelar_omkarr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shelaromkar313/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shelaromkar313@gmail.com) 
 
